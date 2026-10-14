@@ -1,6 +1,6 @@
 # Github User Activity API 
 
-Simple solution for fetching user data activity from GitHub API. 
+Simple solution for fetching user data activity from GitHub API for the [roadmap.sh activity](https://roadmap.sh/projects/github-user-activity). 
 
 
 ## Running the program: 
